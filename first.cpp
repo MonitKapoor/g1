@@ -13,3 +13,9 @@ Public:
 	//added a comment
 	cout<<"hello world"<<endl;
 }
+
+void Student::swap(int k,int l)
+{
+	//uunction definition
+	//
+}

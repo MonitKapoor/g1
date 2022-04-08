@@ -19,3 +19,5 @@ void Student::swap(int k,int l)
 	//uunction definition
 	//
 }
+int main()
+{}
